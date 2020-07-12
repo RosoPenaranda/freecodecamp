@@ -10,6 +10,7 @@ This repository has all the code that I make to solve some challenges from [Free
      4. [Pairwise](https://github.com/RosoPenaranda/freecodecamp/tree/master/Coding-Interview-Prep/Algorithms/Pairwise)
      5. [Implement Bubble Sort](https://github.com/RosoPenaranda/freecodecamp/tree/master/Coding-Interview-Prep/Algorithms/Implement%20Bubble%20Sort)
      6. [Implement Selection Sort](https://github.com/RosoPenaranda/freecodecamp/tree/master/Coding-Interview-Prep/Algorithms/Implement%20Selection%20Sort)
+     7. [Implement Insertion Sort](https://github.com/RosoPenaranda/freecodecamp/tree/master/Coding-Interview-Prep/Algorithms/Implement%20Insertion%20Sort)
 
 ---
 
