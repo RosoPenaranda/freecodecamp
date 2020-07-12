@@ -1,4 +1,4 @@
-## FreeCodeCamp
+# FreeCodeCamp
 
 This repository has all the code that I make to solve some challenges from [FreeCodeCamp](https://www.freecodecamp.org).
 
@@ -9,6 +9,7 @@ This repository has all the code that I make to solve some challenges from [Free
      3. [No Repeats Please](https://github.com/RosoPenaranda/freecodecamp/tree/master/Coding-Interview-Prep/Algorithms/No%20Repeats%20Please)
      4. [Pairwise](https://github.com/RosoPenaranda/freecodecamp/tree/master/Coding-Interview-Prep/Algorithms/Pairwise)
      5. [Implement Bubble Sort](https://github.com/RosoPenaranda/freecodecamp/tree/master/Coding-Interview-Prep/Algorithms/Implement%20Bubble%20Sort)
+     6. [Implement Selection Sort](https://github.com/RosoPenaranda/freecodecamp/tree/master/Coding-Interview-Prep/Algorithms/Implement%20Selection%20Sort)
 
 ---
 
